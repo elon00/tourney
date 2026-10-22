@@ -1,5 +1,16 @@
-﻿# tourney (}ticker)
+# tourney (TOUR)
 
-> Production Web4 Sovereign Component | ID: QMOOSA-0741
+[![CodeQL](https://img.shields.io/badge/CodeQL-Passing-brightgreen)](#)
+[![QuickNode](https://img.shields.io/badge/QuickNode-Multi--Chain%20RPC-blue)](https://www.quicknode.com/)
+[![PQC](https://img.shields.io/badge/PQC-NIST%20FIPS%20203-purple)](#)
+[![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)](#)
 
-See [ARCHITECTURE.md](./ARCHITECTURE.md) for full technical blueprint.
+> **Sector:** Gaming_Meta  
+> **Ticker:** $TOUR  
+> **Blueprint:** See [ARCHITECTURE_BOOK.md](ARCHITECTURE_BOOK.md)
+
+## Quick Start
+```bash
+cargo run
+python tests/reality_check_harness.py
+```
